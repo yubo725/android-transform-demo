@@ -1,0 +1,4 @@
+com/test/plugin/MyTransform.java
+ com.test.plugin.MyTransform
+com/test/plugin/MyPlugin.java
+ com.test.plugin.MyPlugin
